@@ -31,3 +31,6 @@ Test on the webcam:
 ```
 python object_detection_yolo.py
 ```
+
+
+# This code is written at BigVision LLC. It is based on the OpenCV project. It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
